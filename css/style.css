@@ -1,0 +1,22 @@
+.wrapper {
+
+	max-width: 1020px;
+	margin: 0px auto;
+
+}
+
+.calc_header {
+
+	margin: 20px;
+	text-align: center;
+
+}
+
+.quadratic {
+
+	padding: 20px;
+	border: 1px solid black;
+	border-radius: 10px;
+	margin: 0px 0px 20px 0px;
+
+}
